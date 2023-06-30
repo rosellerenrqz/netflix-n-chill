@@ -47,6 +47,9 @@ const Auth = () => {
                 }}
               />
             </div>
+            <button className="bg-red-600 py-3 px-3 text-white w-full rounded-md mt-10 hover:bg-red-700">
+              Login
+            </button>
           </div>
         </div>
       </div>
